@@ -7,5 +7,5 @@ npm-debug.log
 *.iml
 /.idea
 
-#api_keys
+#api_key
 .env
